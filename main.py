@@ -23,6 +23,12 @@ def calculadora (numero1,numero2,operacion):
 ###################################################
 #Programa principal
 
+calculadora(5, 7, '')
 
 
-        
+#################################
+# Programa principal
+
+# llamar a la función desde el programa principal
+saludo( "Erick" ) #esta función no devuelve nada, por eso no se asigna ninguna variable
+
